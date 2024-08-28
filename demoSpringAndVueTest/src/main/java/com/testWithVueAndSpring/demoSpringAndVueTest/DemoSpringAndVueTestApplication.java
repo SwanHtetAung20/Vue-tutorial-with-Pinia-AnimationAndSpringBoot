@@ -1,0 +1,13 @@
+package com.testWithVueAndSpring.demoSpringAndVueTest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoSpringAndVueTestApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoSpringAndVueTestApplication.class, args);
+	}
+
+}
